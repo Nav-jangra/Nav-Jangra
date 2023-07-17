@@ -18,7 +18,7 @@
   
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Ravi!;I'm+a+Software+Developer.;❤+Java+LeetCode+Kotlin;I+❤+DSA..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Naveen!;I'm+a+Software+Developer.;❤+Java+LeetCode+Kotlin;I+❤+DSA..)](https://git.io/typing-svg)
 </div>
 
 ## 🙋‍♂️ About Me
