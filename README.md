@@ -6,7 +6,7 @@
 <h3 align="center">I'm a passionate Software Developer from India.</h3>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : "Winner's Never Quit!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : "Winners Never Quit!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
   
   
@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/ravipuniaa/github-readme-streak-stats">
+    <a href="https://github.com/Nav-Jangra/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Naveen Jangra streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nav-jangra&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
