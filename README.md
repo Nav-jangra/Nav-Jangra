@@ -1,14 +1,16 @@
-<!-- <a href="#"><img width="1280" height="576" src="https://github.com/jsm-28415/Personal/blob/main/7YQo.gif" height="175px"/></a> -->
+<!-- <a href="#"><img width="1280" height="576" src="https://github.com/jsm-28415/Personal/blob/main/7YQo.gif" height="175px"/></a> 
 <a href="#"><img width="100%" height="auto" src="https://github.com/ravipuniaa/ravipuniaa/blob/main/giphy.gif" height="175px"/></a>
+-->
 
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> there, fellow DEVELOPER'S</h1>
 <h3 align="center">I'm a passionate Software Developer from India.</h3>
 
+<!---
 <p align="center">
 <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : "Winners Never Quit!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
-  
+  -->
   
 <!-- 
 ###
@@ -72,7 +74,7 @@
 <br/>
 <br/>
 
-## Watch my contribution grap
+## Watch my contribution graph
 <a href="https://github.com/Nav-jangra/github-readme-activity-graph"><img alt="Naveen Jangra Activity Graph" src="https://activity-graph.cyclic.app/graph?username=Nav-jangra&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
@@ -94,9 +96,10 @@
 </a>
 <a href="https://github.com/Nav-jangra?tab=followers"><img src="https://img.shields.io/github/followers/Nav-jangra?label=Followers&style=social" alt="GitHub Badge"></a>
 
-## Watch my contribution graph get eaten by the snake 🐍
+<!--- ## Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/ravipuniaa/ravipuniaa/blob/output/github-contribution-grid-snake.gif)
-
+<a href="https://github.com/Nav-jangra/github-readme-activity-graph"><img alt="Naveen Jangra Activity Graph" src="https://activity-graph.cyclic.app/graph?username=Nav-jangra&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+-->
 
 
 <div align="center">
