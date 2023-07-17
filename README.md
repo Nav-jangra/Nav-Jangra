@@ -14,7 +14,7 @@
   
 <!-- 
 ###
-**jsm-28415/jsm-28415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**jsm-28415/jsm-28415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 <div align="center">
   
@@ -22,6 +22,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Naveen!;I'm+a+Software+Developer.;❤+Cpp+LeetCode+Java;I+❤+DSA..)](https://git.io/typing-svg)
 </div>
+-->
 
 ## 🙋‍♂️ About Me
 
