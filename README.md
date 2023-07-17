@@ -89,7 +89,7 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ravipuniaa">
+    <img src="https://komarev.com/ghpvc/?username=Nav-jangra">
 </a>
 <a href="https://github.com/Nav-jangra?tab=followers"><img src="https://img.shields.io/github/followers/Nav-jangra?label=Followers&style=social" alt="GitHub Badge"></a>
 
