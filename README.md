@@ -39,7 +39,7 @@
 ## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
 <p align="left"> 
     <a href="https://www.isocpp.org" target="_blank"> <img src="https://github.com/Nav-jangra/Nav-Jangra/assets/90304808/752b04b5-5b97-45e8-ade9-476df063ac20"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="[https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png](https://icons8.com/icon/FRRACRKRsw2s/java)"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://github.com/Nav-jangra/Nav-Jangra/assets/90304808/89a8a479-e92f-433e-901b-ef01b056d147"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
