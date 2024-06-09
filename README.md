@@ -31,7 +31,7 @@
 - 👯 I’m looking to collaborate on **Open Source**
 - 👊🤜 I always had a fight with me VS me 
 - 💬 Ask me about ... Android App Develpoment, Web Development, Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-- 📫 How to reach me: ... **nav0813jangra@gmail.com**
+- 📫 How to reach me: ... **naveen.jangra0813@gmail.com**
 - ⚡ Fun fact: ... I Love to sleep
 
 
@@ -86,7 +86,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/Nav-jangra/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "mailto:nav0813jangra@gmail.com/"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href = "mailto:naveen.jangra0813@gmail.com/"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 <!---<a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
