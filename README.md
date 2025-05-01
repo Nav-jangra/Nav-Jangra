@@ -29,7 +29,6 @@
 - 🔭 I’m currently working on ...**Competeitive Programming**
 - 🌱 I’m currently learning ... **Java**
 - 👯 I’m looking to collaborate on **Open Source**
-- 👊🤜 I always had a fight with me VS me 
 - 💬 Ask me about ... Android App Develpoment, Web Development, Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 - 📫 How to reach me: ... **naveen.jangra0813@gmail.com**
 - ⚡ Fun fact: ... I Love to sleep
